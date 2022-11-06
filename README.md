@@ -6,11 +6,11 @@ run here: http://morra-2.vercel.app/
 
 step: 
 
-![image](https://user-images.githubusercontent.com/79742104/200176911-9ea05882-a418-42ae-a364-4725507109bc.png | width=60)
+![image](https://user-images.githubusercontent.com/79742104/200176911-9ea05882-a418-42ae-a364-4725507109bc.png)
 
 Deployer:
 
-![image](https://user-images.githubusercontent.com/79742104/200176986-ad3431d4-dbf6-43ce-9c8c-8ec4bf5e8b4d.png| width=60)
+![image](https://user-images.githubusercontent.com/79742104/200176986-ad3431d4-dbf6-43ce-9c8c-8ec4bf5e8b4d.png)
 ![image](https://user-images.githubusercontent.com/79742104/200177070-53689509-1d3c-4f89-ba08-f135134f0fa7.png)
 
 
