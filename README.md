@@ -4,8 +4,8 @@ this project is a pre-requisite for joining the hackathon program.
 
 run here: http://morra-2.vercel.app/
 
-step: 
-
+step:
+choose your role:
 ![image](https://user-images.githubusercontent.com/79742104/200176911-9ea05882-a418-42ae-a364-4725507109bc.png)
 
 Deployer:
